@@ -2,3 +2,4 @@
 1-confused_smiley displays a confused smiley "(Ôo)'
 Display the content of the /etc/passwd file => 2-hellofile
 Display the last 10 lines of /etc/passwd => 4-lastlines
+Display the first 10 lines of /etc/passwd => 5-firstlines
