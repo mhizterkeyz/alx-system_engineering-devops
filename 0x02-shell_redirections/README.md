@@ -20,3 +20,4 @@ Replace all characters A and c from input to Z and e respectively => 19-AZ
 Create a script that removes all letters c and C from input => 20-hiago
  that reverse its input => 21-reverse
 displays all users and their home directories, sorted by users => 22-users_and_homes
+finds all empty files and directories in the current directory and all sub-directories => 100-empty_casks
