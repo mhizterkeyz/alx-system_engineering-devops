@@ -11,3 +11,4 @@ displays the result of BREATH to the power LOVE => 10-love_exponent_breath
 converts a number from base 2 to base 10 => 11-binary_to_decimal
 prints the result of POWER divided by DIVIDE, followed by a new line => 9-divide_and_rule
 prints a number with two decimal places, followed by a new line => 13-print_float
+converts a number from base 10 to base 16 => 100-decimal_to_hexadecimal
