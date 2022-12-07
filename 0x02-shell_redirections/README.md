@@ -17,3 +17,4 @@ Display lines containing the pattern “root” and 3 lines after them in the fi
 Display all the lines in the file /etc/passwd that do not contain the pattern “bin” => 17-hidethisword
 Display all lines of the file /etc/ssh/sshd_config starting with a letter => 18-letteronly
 Replace all characters A and c from input to Z and e respectively => 19-AZ
+Create a script that removes all letters c and C from input => 20-hiago
