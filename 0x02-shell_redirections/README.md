@@ -12,3 +12,4 @@ counts the number of directories and sub-directories in the current directory =>
 displays the 10 newest files in the current directory => 12-newest_files
 takes a list of words as input and prints only words that appear exactly once => 13-unique
 Display lines containing the pattern “root” from the file /etc/passwd => 14-findthatword
+Display the number of lines that contain the pattern “bin” in the file /etc/passwd => 15-countthatword
