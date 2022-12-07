@@ -4,3 +4,4 @@ Add /action to the PATH => 2-path
 counts the number of directories in the PATH => 3-paths
 lists environment variables => 4-global_variables
 lists all local variables and environment variables, and functions => 5-local_variables
+creates a new local variable => 6-create_local_variable
