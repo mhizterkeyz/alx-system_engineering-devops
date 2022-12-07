@@ -11,3 +11,4 @@ deletes all the regular files (not the directories) with a .js extension that ar
 counts the number of directories and sub-directories in the current directory => 11-directories
 displays the 10 newest files in the current directory => 12-newest_files
 takes a list of words as input and prints only words that appear exactly once => 13-unique
+Display lines containing the pattern “root” from the file /etc/passwd => 14-findthatword
